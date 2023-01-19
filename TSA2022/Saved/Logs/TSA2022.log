@@ -15962,3 +15962,15 @@ Script Stack (0 frames) :
 [2023.01.19-22.14.41:239][637]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/orb/Procedural/BP_Maze_Auto2
 [2023.01.19-22.14.41:239][637]LogSavePackage: Moving '../../../../../Projects/TSa2022bideogame/TSA2022/Saved/BP_Maze_Auto216B9F9CA4D78BDEA4D62CFABEF88F2A0.tmp' to '../../../../../Projects/TSa2022bideogame/TSA2022/Saved/Autosaves/Game/orb/Procedural/BP_Maze_Auto2.uasset'
 [2023.01.19-22.14.41:240][637]LogFileHelpers: Auto-saving content packages took 0.122
+[2023.01.19-22.14.51:161][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.01.19-22.14.53:167][787]LogSlate: Window 'Save Content' being destroyed
+[2023.01.19-22.14.53:204][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.19-22.14.53:253][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/orb/Procedural/BP_Maze" FILE="../../../../../Projects/TSa2022bideogame/TSA2022/Content/orb/Procedural/BP_Maze.uasset" SILENT=true
+[2023.01.19-22.14.53:340][787]LogSavePackage: Moving output files for package: /Game/orb/Procedural/BP_Maze
+[2023.01.19-22.14.53:341][787]LogSavePackage: Moving '../../../../../Projects/TSa2022bideogame/TSA2022/Saved/BP_Maze3BF534D344B992F8DA573C9C9E6942F7.tmp' to '../../../../../Projects/TSa2022bideogame/TSA2022/Content/orb/Procedural/BP_Maze.uasset'
+[2023.01.19-22.14.53:344][787]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/game/C/3X/23VII7WS223ZP7E4VNUM1J
+[2023.01.19-22.14.53:344][787]LogSavePackage: Moving '../../../../../Projects/TSa2022bideogame/TSA2022/Saved/23VII7WS223ZP7E4VNUM1JD901ECB0415929AF085B2D8B7A44CB8F.tmp' to '../../../../../Projects/TSa2022bideogame/TSA2022/Content/__ExternalActors__/game/C/3X/23VII7WS223ZP7E4VNUM1J.uasset'
+[2023.01.19-22.14.53:355][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 15.3 sec)
+[2023.01.19-22.14.53:364][787]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.19-22.14.53:364][787]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/orb/Procedural/BP_Maze.BP_Maze
+[2023.01.19-22.14.53:364][787]LogContentValidation: Display: Validating /Game/orb/Procedural/BP_Maze.BP_Maze_C /Game/game.game:PersistentLevel.BP_Maze_C_UAID_309C23E9A39CE25901_1494298919
