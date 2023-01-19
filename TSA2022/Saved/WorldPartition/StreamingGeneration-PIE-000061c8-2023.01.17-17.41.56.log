@@ -1,0 +1,89 @@
+[+] Containers:
+ |- [+] Container: /Game/game1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:16D8B52E4784F90875B3A39FEE96E022 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_309C23E9A39C5A5D01_2074864213 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:2769BC8648664F4F586432B91D62BD77 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_309C23E9A39C5A5D01_2074861210 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:325EFCA14744566EE35C40AF4081DB05 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:33A5820D4D7A1E019CF86DB80F1B095F BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_309C23E9A39C5A5D01_2077163220 Label:SkyLight2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:431BF5BE4AEF4CEE2AF0528F28F32F13 BaseClass:/Game/orb/Procedural/BP_instanceManager.BP_instanceManager_C NativeClass:/Script/Engine.Actor Name:BP_instanceManager_C_UAID_309C23E9A39C5A5D01_2075208217 Label:BP_instanceManager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14200.000 Y=34250.000 Z=0.000), Max=(X=14200.000 Y=34250.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:491D4E1B44A5C227AE7A82A21FFD3D67 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_309C23E9A39C5A5D01_2077166222 Label:SM_SkySphere2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:540163D242379219D5D4D3AA9D9B5440 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_309C23E9A39C5A5D01_2075200215 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:5C21D4BA41CACC8C48A6E8922D0CE300 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_309C23E9A39C5A5D01_2077169224 Label:VolumetricCloud2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:67CEDE6248DF6F65345D41AAA0CA862F BaseClass:/Game/orb/Procedural/ControllerPawn.ControllerPawn_C NativeClass:/Script/Engine.Pawn Name:ControllerPawn_C_UAID_309C23E9A39C5A5D01_2075209218 Label:ControllerPawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12725.000 Y=32775.000 Z=3200.000), Max=(X=12725.000 Y=32775.000 Z=3200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:8500143448A1E4FA9B038280AE70CE71 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_309C23E9A39C5A5D01_2074862211 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:9FB9FE8444D7C69DD12EB09FDA9B5BBA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_309C23E9A39C5A5D01_2074860209 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:AD2409C642A071700F53CFB7DFB21847 BaseClass:/Game/orb/Procedural/BP_Maze.BP_Maze_C NativeClass:/Script/Engine.Actor Name:BP_Maze_C_UAID_309C23E9A39C5A5D01_2075202216 Label:BP_Maze SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:BF41A5BB4A074DF6D4679D902C02BDA9 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_309C23E9A39C5A5D01_2077502226 Label:ExponentialHeightFog2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:BFC96F8A44E76280D8FEA4B25458C791 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_309C23E9A39C5A5D01_2077167223 Label:DirectionalLight2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:F18C2D784A5B069F84C7BF93E4755BF5 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_309C23E9A39C5A5D01_2077165221 Label:SkyAtmosphere2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:F5EC6BDD4681A2723AE8A2BA37F84488 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_309C23E9A39C5A5D01_2074863212 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:33A5820D4D7A1E019CF86DB80F1B095F BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_309C23E9A39C5A5D01_2077163220 Label:SkyLight2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:8500143448A1E4FA9B038280AE70CE71 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_309C23E9A39C5A5D01_2074862211 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:9FB9FE8444D7C69DD12EB09FDA9B5BBA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_309C23E9A39C5A5D01_2074860209 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:16D8B52E4784F90875B3A39FEE96E022 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_309C23E9A39C5A5D01_2074864213 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:F5EC6BDD4681A2723AE8A2BA37F84488 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_309C23E9A39C5A5D01_2074863212 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:540163D242379219D5D4D3AA9D9B5440 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_309C23E9A39C5A5D01_2075200215 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:BFC96F8A44E76280D8FEA4B25458C791 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_309C23E9A39C5A5D01_2077167223 Label:DirectionalLight2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:BF41A5BB4A074DF6D4679D902C02BDA9 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_309C23E9A39C5A5D01_2077502226 Label:ExponentialHeightFog2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:5C21D4BA41CACC8C48A6E8922D0CE300 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_309C23E9A39C5A5D01_2077169224 Label:VolumetricCloud2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:325EFCA14744566EE35C40AF4081DB05 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:F18C2D784A5B069F84C7BF93E4755BF5 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_309C23E9A39C5A5D01_2077165221 Label:SkyAtmosphere2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:491D4E1B44A5C227AE7A82A21FFD3D67 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_309C23E9A39C5A5D01_2077166222 Label:SM_SkySphere2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:67CEDE6248DF6F65345D41AAA0CA862F BaseClass:/Game/orb/Procedural/ControllerPawn.ControllerPawn_C NativeClass:/Script/Engine.Pawn Name:ControllerPawn_C_UAID_309C23E9A39C5A5D01_2075209218 Label:ControllerPawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12725.000 Y=32775.000 Z=3200.000), Max=(X=12725.000 Y=32775.000 Z=3200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |   |- Guid:AD2409C642A071700F53CFB7DFB21847 BaseClass:/Game/orb/Procedural/BP_Maze.BP_Maze_C NativeClass:/Script/Engine.Actor Name:BP_Maze_C_UAID_309C23E9A39C5A5D01_2075202216 Label:BP_Maze SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |   |- Guid:431BF5BE4AEF4CEE2AF0528F28F32F13 BaseClass:/Game/orb/Procedural/BP_instanceManager.BP_instanceManager_C NativeClass:/Script/Engine.Actor Name:BP_instanceManager_C_UAID_309C23E9A39C5A5D01_2075208217 Label:BP_instanceManager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14200.000 Y=34250.000 Z=0.000), Max=(X=14200.000 Y=34250.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:2769BC8648664F4F586432B91D62BD77 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_309C23E9A39C5A5D01_2074861210 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=14200.000 Y=34250.000 Z=3200.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/game1
+----------------------------------------------------------------------------------------------------------------
+game1 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 26 
+
+----------------------------------------------------------------------------------------------------------------
+game1 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=14200.000 Y=34250.000 Z=3200.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 3
+ |- Level  0: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+ |- Level  1: Cell Count    1 | Cell Size   51200 | Actor Count    3 (100.0%)
+ |- Level  2: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+[+] Content of Grid Level 1
+ |- [+] Content of Cell MainGrid_L1_X0_Y0
+ |   |- Actor Count: 3
+ |   |- MinMaxZ: X=0.000 Y=3200.000
+ |   |- Actor Path: /Game/game1.game1:PersistentLevel.ControllerPawn_C_UAID_309C23E9A39C5A5D01_2075209218
+ |   |- Actor Package: /Game/__ExternalActors__/game1/C/5B/OI19GFB80YE2N6QFFF28D4
+ |   |- Actor Path: /Game/game1.game1:PersistentLevel.BP_Maze_C_UAID_309C23E9A39C5A5D01_2075202216
+ |   |- Actor Package: /Game/__ExternalActors__/game1/0/H2/FXVCNI6J85JVDU5DIA1RB0
+ |   |- Actor Path: /Game/game1.game1:PersistentLevel.BP_instanceManager_C_UAID_309C23E9A39C5A5D01_2075208217
+ |   |- Actor Package: /Game/__ExternalActors__/game1/B/4Y/I3PU2WUWIZ69B59HESG0J6
+[+] Content of Grid Level 2
+
