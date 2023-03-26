@@ -1,7 +1,7 @@
 {
 	"SourceFiles": [
-		"E:\\Projects\\TSa2022bideogame\\TSA2022\\Plugins\\RuntimeMeshComponent-RMC4_UE5\\Source\\RuntimeMeshComponent\\RuntimeMeshComponent.Build.cs",
-		"E:\\Projects\\TSa2022bideogame\\TSA2022\\Plugins\\RuntimeMeshComponent-RMC4_UE5\\Source\\RuntimeMeshComponentEditor\\RuntimeMeshComponentEditor.Build.cs"
+		"E:\\Projects\\TSa2022bideogame\\.git\\TSa2022bideogame\\TSA2022\\Intermediate\\Source\\TSA2022.Build.cs",
+		"E:\\Projects\\TSa2022bideogame\\.git\\TSa2022bideogame\\TSA2022\\Intermediate\\Source\\TSA2022.Target.cs"
 	],
 	"EngineVersion": "5.1.0"
 }
