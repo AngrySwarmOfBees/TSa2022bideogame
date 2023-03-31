@@ -1,0 +1,278 @@
+[+] Containers:
+ |- [+] Container: /Game/game
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0432B3BB48B2FB74E3C684A9B3B3B3B0 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1191761428 Label:Sonic_Diamonds_Bp4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15844.289 Y=36854.289 Z=-518.125), Max=(X=15985.711 Y=36995.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:044DD7DB433461351EA5DFB9FFDE3EF5 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402008476 Label:Sonic_Diamonds_Bp26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13744.289 Y=37279.289 Z=-558.125), Max=(X=13885.711 Y=37420.711 Z=-551.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:05CC43BE4D6673741A34C59A182A3B88 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313006448 Label:Sonic_Diamonds_Bp12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=17344.289 Y=36819.289 Z=-443.125), Max=(X=17485.711 Y=36960.711 Z=-436.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:098CBE6A4E832D7445F2609EB303898C BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504358501 Label:Sonic_Diamonds_Bp37 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16199.289 Y=37879.289 Z=-748.125), Max=(X=16340.711 Y=38020.711 Z=-741.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:0E79EF284E843770C18A40AB0520E098 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1124479417 Label:Sonic_Diamonds_Bp3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16334.289 Y=37434.289 Z=-518.125), Max=(X=16475.711 Y=37575.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:17878DCF4EE6C6A31F46628BBDB68EEA BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377813468 Label:Sonic_Diamonds_Bp20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15584.289 Y=36364.289 Z=-558.125), Max=(X=15725.711 Y=36505.711 Z=-551.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:19A4731B48A7BE46CE484A87E628C22D BaseClass:/Game/orb/Procedural/BP_instanceManager.BP_instanceManager_C NativeClass:/Script/Engine.Actor Name:BP_instanceManager_C_UAID_309C23E9A39CE25901_1497335920 Label:BP_instanceManager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14200.000 Y=34250.000 Z=0.000), Max=(X=14200.000 Y=34250.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:1E0C3A954838CB9EA19757A116A5E56B BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1122345416 Label:Sonic_Diamonds_Bp2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16074.289 Y=37219.289 Z=-558.125), Max=(X=16215.711 Y=37360.711 Z=-551.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:1EA8799040DD92ADDB1DDF9073C6A597 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416966486 Label:Sonic_Diamonds_Bp34 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13669.289 Y=38544.289 Z=-668.125), Max=(X=13810.711 Y=38685.711 Z=-661.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2B3E39DE4D77B226072B8F8CBDF1EBBF BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377810467 Label:Sonic_Diamonds_Bp19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15274.289 Y=36664.289 Z=-598.125), Max=(X=15415.711 Y=36805.711 Z=-591.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:2D0B5B7640FD88CE36CEFD9B7C0AC0FA BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359831462 Label:Sonic_Diamonds_Bp18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15124.289 Y=36964.289 Z=-443.125), Max=(X=15265.711 Y=37105.711 Z=-436.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3FFC063041ED1108E4140D9E4984B532 BaseClass:/Game/orb/Procedural/ControllerPawn.ControllerPawn_C NativeClass:/Script/Engine.Pawn Name:ControllerPawn_C_UAID_309C23E9A39CE65901_1856491626 Label:ControllerPawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15175.000 Y=35150.000 Z=2500.000), Max=(X=15175.000 Y=35150.000 Z=2500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:420D0FE343F0A61BCDEB91AC1308C7FE BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402014479 Label:Sonic_Diamonds_Bp29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13179.289 Y=37199.289 Z=-633.125), Max=(X=13320.711 Y=37340.711 Z=-626.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4A784ED2499178157F6FF5974DFF11B0 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377814469 Label:Sonic_Diamonds_Bp21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15844.289 Y=36579.289 Z=-518.125), Max=(X=15985.711 Y=36720.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4DE4B7CD46D058933CAC0FBA8AD76B70 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E76F7401_1947692209 Label:Sonic_Diamonds_Bp SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15764.289 Y=37519.289 Z=-598.125), Max=(X=15905.711 Y=37660.711 Z=-591.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:56D5087D4F87FE9F5694A0A7E11F06FE BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504368506 Label:Sonic_Diamonds_Bp42 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16794.289 Y=38074.289 Z=-593.125), Max=(X=16935.711 Y=38215.711 Z=-586.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5B14EF67493E1671039DC6893C0FD3BC BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402005475 Label:Sonic_Diamonds_Bp25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13434.289 Y=37579.289 Z=-598.125), Max=(X=13575.711 Y=37720.711 Z=-591.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5D6061A246FCC380DB22B38C77C35ED5 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377819472 Label:Sonic_Diamonds_Bp24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14679.289 Y=36469.289 Z=-443.125), Max=(X=14820.711 Y=36610.711 Z=-436.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:631B7B4E467102BDBBC9D9B38EB5E608 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416969488 Label:Sonic_Diamonds_Bp36 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14344.289 Y=38074.289 Z=-593.125), Max=(X=14485.711 Y=38215.711 Z=-586.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:65CEE48D49AAC432A62AABB556A61B58 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416962483 Label:Sonic_Diamonds_Bp31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13749.289 Y=37879.289 Z=-748.125), Max=(X=13890.711 Y=38020.711 Z=-741.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:66CD26C143C338BE20D8108531BDA58B BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313003446 Label:Sonic_Diamonds_Bp10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16669.289 Y=37289.289 Z=-518.125), Max=(X=16810.711 Y=37430.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6ADAE548413C8C63072D75A4E08AB236 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402015480 Label:Sonic_Diamonds_Bp30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12839.289 Y=37384.289 Z=-443.125), Max=(X=12980.711 Y=37525.711 Z=-436.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6D2F0CB349FD200BCBE5ACAEB85A06E5 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504365504 Label:Sonic_Diamonds_Bp40 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16119.289 Y=38544.289 Z=-668.125), Max=(X=16260.711 Y=38685.711 Z=-661.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7B4149D74D558229ACB47892F604212D BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359828461 Label:Sonic_Diamonds_Bp17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14784.289 Y=37149.289 Z=-633.125), Max=(X=14925.711 Y=37290.711 Z=-626.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:80E1FE0949FB448127EC5E8E87634FE8 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416965485 Label:Sonic_Diamonds_Bp33 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13179.289 Y=37964.289 Z=-668.125), Max=(X=13320.711 Y=38105.711 Z=-661.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:815C543A4ADAAFF61AEB089E13566C71 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416967487 Label:Sonic_Diamonds_Bp35 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14004.289 Y=38259.289 Z=-783.125), Max=(X=14145.711 Y=38400.711 Z=-776.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:87431C644A0DED2E389A4EAAF436E692 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1194797429 Label:Sonic_Diamonds_Bp5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15509.289 Y=37139.289 Z=-633.125), Max=(X=15650.711 Y=37280.711 Z=-626.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:99AADC01484F4DA987B289BFAFF75D2D BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359827460 Label:Sonic_Diamonds_Bp16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14449.289 Y=37434.289 Z=-518.125), Max=(X=14590.711 Y=37575.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A5771A844215A0E6A08562867772C249 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1203303430 Label:Sonic_Diamonds_Bp6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15169.289 Y=37324.289 Z=-443.125), Max=(X=15310.711 Y=37465.711 Z=-436.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A6D31C2D4A81F7FFA8FDF084C213F5EB BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359825458 Label:Sonic_Diamonds_Bp14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14219.289 Y=37069.289 Z=-558.125), Max=(X=14360.711 Y=37210.711 Z=-551.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:AE3C709A48D2C8FE810CB6AEA6CB3B93 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313000444 Label:Sonic_Diamonds_Bp8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16439.289 Y=36924.289 Z=-558.125), Max=(X=16580.711 Y=37065.711 Z=-551.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B231D08F4DB6C028CB1333B2EB832A04 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313001445 Label:Sonic_Diamonds_Bp9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16179.289 Y=36709.289 Z=-518.125), Max=(X=16320.711 Y=36850.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B7E703184B8B13597B49DCBD887D88E9 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416963484 Label:Sonic_Diamonds_Bp32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13439.289 Y=38179.289 Z=-708.125), Max=(X=13580.711 Y=38320.711 Z=-701.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:BB3F340E4ED53B0A5D7680BAE9469F18 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504361502 Label:Sonic_Diamonds_Bp38 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15889.289 Y=38179.289 Z=-708.125), Max=(X=16030.711 Y=38320.711 Z=-701.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C8AA95B04CA9728B501FF8B971C5ACE7 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359826459 Label:Sonic_Diamonds_Bp15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13959.289 Y=36854.289 Z=-518.125), Max=(X=14100.711 Y=36995.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D23770EA4A4F62A7D9131FBBEB951031 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377817471 Label:Sonic_Diamonds_Bp23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15019.289 Y=36284.289 Z=-633.125), Max=(X=15160.711 Y=36425.711 Z=-626.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D368058A4D2848140848C2AA602509AC BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402012478 Label:Sonic_Diamonds_Bp28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13514.289 Y=36914.289 Z=-518.125), Max=(X=13655.711 Y=37055.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:E27780744454761C4C974D81FC3B991E BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402009477 Label:Sonic_Diamonds_Bp27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14004.289 Y=37494.289 Z=-518.125), Max=(X=14145.711 Y=37635.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E3B25B8443F4AA5B0E3AFDB51302BA70 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504366505 Label:Sonic_Diamonds_Bp41 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16454.289 Y=38259.289 Z=-783.125), Max=(X=16595.711 Y=38400.711 Z=-776.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E4120FD74B6135CCC3A3E6AFF449FDB3 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1312998443 Label:Sonic_Diamonds_Bp7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16749.289 Y=36624.289 Z=-598.125), Max=(X=16890.711 Y=36765.711 Z=-591.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E6121BDD4DB2549CE85439BD8B4603C3 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359824457 Label:Sonic_Diamonds_Bp13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14529.289 Y=36769.289 Z=-598.125), Max=(X=14670.711 Y=36910.711 Z=-591.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E6C4256B4C809C38067A65A8B56F1582 BaseClass:/Game/orb/Procedural/BP_Maze.BP_Maze_C NativeClass:/Script/Engine.Actor Name:BP_Maze_C_UAID_309C23E9A39CE25901_1494298919 Label:BP_Maze SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:EA63C3FD445543F182E707A6B632BB56 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313005447 Label:Sonic_Diamonds_Bp11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=17004.289 Y=37004.289 Z=-633.125), Max=(X=17145.711 Y=37145.711 Z=-626.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:EE6573364A21E398F213B29785FF5B67 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504363503 Label:Sonic_Diamonds_Bp39 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15629.289 Y=37964.289 Z=-668.125), Max=(X=15770.711 Y=38105.711 Z=-661.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:FEB5683A409BBAF15C8B6793F2754CF6 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377816470 Label:Sonic_Diamonds_Bp22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15354.289 Y=35999.289 Z=-518.125), Max=(X=15495.711 Y=36140.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:3FFC063041ED1108E4140D9E4984B532 BaseClass:/Game/orb/Procedural/ControllerPawn.ControllerPawn_C NativeClass:/Script/Engine.Pawn Name:ControllerPawn_C_UAID_309C23E9A39CE65901_1856491626 Label:ControllerPawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15175.000 Y=35150.000 Z=2500.000), Max=(X=15175.000 Y=35150.000 Z=2500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |   |- Guid:19A4731B48A7BE46CE484A87E628C22D BaseClass:/Game/orb/Procedural/BP_instanceManager.BP_instanceManager_C NativeClass:/Script/Engine.Actor Name:BP_instanceManager_C_UAID_309C23E9A39CE25901_1497335920 Label:BP_instanceManager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14200.000 Y=34250.000 Z=0.000), Max=(X=14200.000 Y=34250.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |   |- Guid:E6C4256B4C809C38067A65A8B56F1582 BaseClass:/Game/orb/Procedural/BP_Maze.BP_Maze_C NativeClass:/Script/Engine.Actor Name:BP_Maze_C_UAID_309C23E9A39CE25901_1494298919 Label:BP_Maze SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:4DE4B7CD46D058933CAC0FBA8AD76B70 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E76F7401_1947692209 Label:Sonic_Diamonds_Bp SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15764.289 Y=37519.289 Z=-598.125), Max=(X=15905.711 Y=37660.711 Z=-591.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:1E0C3A954838CB9EA19757A116A5E56B BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1122345416 Label:Sonic_Diamonds_Bp2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16074.289 Y=37219.289 Z=-558.125), Max=(X=16215.711 Y=37360.711 Z=-551.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:0E79EF284E843770C18A40AB0520E098 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1124479417 Label:Sonic_Diamonds_Bp3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16334.289 Y=37434.289 Z=-518.125), Max=(X=16475.711 Y=37575.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:0432B3BB48B2FB74E3C684A9B3B3B3B0 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1191761428 Label:Sonic_Diamonds_Bp4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15844.289 Y=36854.289 Z=-518.125), Max=(X=15985.711 Y=36995.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:87431C644A0DED2E389A4EAAF436E692 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1194797429 Label:Sonic_Diamonds_Bp5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15509.289 Y=37139.289 Z=-633.125), Max=(X=15650.711 Y=37280.711 Z=-626.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:A5771A844215A0E6A08562867772C249 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1203303430 Label:Sonic_Diamonds_Bp6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15169.289 Y=37324.289 Z=-443.125), Max=(X=15310.711 Y=37465.711 Z=-436.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:E4120FD74B6135CCC3A3E6AFF449FDB3 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1312998443 Label:Sonic_Diamonds_Bp7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16749.289 Y=36624.289 Z=-598.125), Max=(X=16890.711 Y=36765.711 Z=-591.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:AE3C709A48D2C8FE810CB6AEA6CB3B93 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313000444 Label:Sonic_Diamonds_Bp8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16439.289 Y=36924.289 Z=-558.125), Max=(X=16580.711 Y=37065.711 Z=-551.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:B231D08F4DB6C028CB1333B2EB832A04 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313001445 Label:Sonic_Diamonds_Bp9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16179.289 Y=36709.289 Z=-518.125), Max=(X=16320.711 Y=36850.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:66CD26C143C338BE20D8108531BDA58B BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313003446 Label:Sonic_Diamonds_Bp10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16669.289 Y=37289.289 Z=-518.125), Max=(X=16810.711 Y=37430.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:EA63C3FD445543F182E707A6B632BB56 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313005447 Label:Sonic_Diamonds_Bp11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=17004.289 Y=37004.289 Z=-633.125), Max=(X=17145.711 Y=37145.711 Z=-626.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:05CC43BE4D6673741A34C59A182A3B88 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313006448 Label:Sonic_Diamonds_Bp12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=17344.289 Y=36819.289 Z=-443.125), Max=(X=17485.711 Y=36960.711 Z=-436.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:E6121BDD4DB2549CE85439BD8B4603C3 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359824457 Label:Sonic_Diamonds_Bp13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14529.289 Y=36769.289 Z=-598.125), Max=(X=14670.711 Y=36910.711 Z=-591.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:A6D31C2D4A81F7FFA8FDF084C213F5EB BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359825458 Label:Sonic_Diamonds_Bp14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14219.289 Y=37069.289 Z=-558.125), Max=(X=14360.711 Y=37210.711 Z=-551.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:C8AA95B04CA9728B501FF8B971C5ACE7 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359826459 Label:Sonic_Diamonds_Bp15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13959.289 Y=36854.289 Z=-518.125), Max=(X=14100.711 Y=36995.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:99AADC01484F4DA987B289BFAFF75D2D BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359827460 Label:Sonic_Diamonds_Bp16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14449.289 Y=37434.289 Z=-518.125), Max=(X=14590.711 Y=37575.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:7B4149D74D558229ACB47892F604212D BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359828461 Label:Sonic_Diamonds_Bp17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14784.289 Y=37149.289 Z=-633.125), Max=(X=14925.711 Y=37290.711 Z=-626.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:2D0B5B7640FD88CE36CEFD9B7C0AC0FA BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359831462 Label:Sonic_Diamonds_Bp18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15124.289 Y=36964.289 Z=-443.125), Max=(X=15265.711 Y=37105.711 Z=-436.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:2B3E39DE4D77B226072B8F8CBDF1EBBF BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377810467 Label:Sonic_Diamonds_Bp19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15274.289 Y=36664.289 Z=-598.125), Max=(X=15415.711 Y=36805.711 Z=-591.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:17878DCF4EE6C6A31F46628BBDB68EEA BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377813468 Label:Sonic_Diamonds_Bp20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15584.289 Y=36364.289 Z=-558.125), Max=(X=15725.711 Y=36505.711 Z=-551.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:4A784ED2499178157F6FF5974DFF11B0 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377814469 Label:Sonic_Diamonds_Bp21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15844.289 Y=36579.289 Z=-518.125), Max=(X=15985.711 Y=36720.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:FEB5683A409BBAF15C8B6793F2754CF6 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377816470 Label:Sonic_Diamonds_Bp22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15354.289 Y=35999.289 Z=-518.125), Max=(X=15495.711 Y=36140.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:D23770EA4A4F62A7D9131FBBEB951031 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377817471 Label:Sonic_Diamonds_Bp23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15019.289 Y=36284.289 Z=-633.125), Max=(X=15160.711 Y=36425.711 Z=-626.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:5D6061A246FCC380DB22B38C77C35ED5 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377819472 Label:Sonic_Diamonds_Bp24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14679.289 Y=36469.289 Z=-443.125), Max=(X=14820.711 Y=36610.711 Z=-436.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:5B14EF67493E1671039DC6893C0FD3BC BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402005475 Label:Sonic_Diamonds_Bp25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13434.289 Y=37579.289 Z=-598.125), Max=(X=13575.711 Y=37720.711 Z=-591.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:044DD7DB433461351EA5DFB9FFDE3EF5 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402008476 Label:Sonic_Diamonds_Bp26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13744.289 Y=37279.289 Z=-558.125), Max=(X=13885.711 Y=37420.711 Z=-551.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:E27780744454761C4C974D81FC3B991E BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402009477 Label:Sonic_Diamonds_Bp27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14004.289 Y=37494.289 Z=-518.125), Max=(X=14145.711 Y=37635.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:D368058A4D2848140848C2AA602509AC BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402012478 Label:Sonic_Diamonds_Bp28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13514.289 Y=36914.289 Z=-518.125), Max=(X=13655.711 Y=37055.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:420D0FE343F0A61BCDEB91AC1308C7FE BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402014479 Label:Sonic_Diamonds_Bp29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13179.289 Y=37199.289 Z=-633.125), Max=(X=13320.711 Y=37340.711 Z=-626.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:6ADAE548413C8C63072D75A4E08AB236 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402015480 Label:Sonic_Diamonds_Bp30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12839.289 Y=37384.289 Z=-443.125), Max=(X=12980.711 Y=37525.711 Z=-436.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:65CEE48D49AAC432A62AABB556A61B58 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416962483 Label:Sonic_Diamonds_Bp31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13749.289 Y=37879.289 Z=-748.125), Max=(X=13890.711 Y=38020.711 Z=-741.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:B7E703184B8B13597B49DCBD887D88E9 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416963484 Label:Sonic_Diamonds_Bp32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13439.289 Y=38179.289 Z=-708.125), Max=(X=13580.711 Y=38320.711 Z=-701.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:80E1FE0949FB448127EC5E8E87634FE8 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416965485 Label:Sonic_Diamonds_Bp33 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13179.289 Y=37964.289 Z=-668.125), Max=(X=13320.711 Y=38105.711 Z=-661.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:1EA8799040DD92ADDB1DDF9073C6A597 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416966486 Label:Sonic_Diamonds_Bp34 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13669.289 Y=38544.289 Z=-668.125), Max=(X=13810.711 Y=38685.711 Z=-661.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:815C543A4ADAAFF61AEB089E13566C71 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416967487 Label:Sonic_Diamonds_Bp35 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14004.289 Y=38259.289 Z=-783.125), Max=(X=14145.711 Y=38400.711 Z=-776.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:631B7B4E467102BDBBC9D9B38EB5E608 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416969488 Label:Sonic_Diamonds_Bp36 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14344.289 Y=38074.289 Z=-593.125), Max=(X=14485.711 Y=38215.711 Z=-586.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:098CBE6A4E832D7445F2609EB303898C BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504358501 Label:Sonic_Diamonds_Bp37 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16199.289 Y=37879.289 Z=-748.125), Max=(X=16340.711 Y=38020.711 Z=-741.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:BB3F340E4ED53B0A5D7680BAE9469F18 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504361502 Label:Sonic_Diamonds_Bp38 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15889.289 Y=38179.289 Z=-708.125), Max=(X=16030.711 Y=38320.711 Z=-701.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:EE6573364A21E398F213B29785FF5B67 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504363503 Label:Sonic_Diamonds_Bp39 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15629.289 Y=37964.289 Z=-668.125), Max=(X=15770.711 Y=38105.711 Z=-661.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:6D2F0CB349FD200BCBE5ACAEB85A06E5 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504365504 Label:Sonic_Diamonds_Bp40 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16119.289 Y=38544.289 Z=-668.125), Max=(X=16260.711 Y=38685.711 Z=-661.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:E3B25B8443F4AA5B0E3AFDB51302BA70 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504366505 Label:Sonic_Diamonds_Bp41 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16454.289 Y=38259.289 Z=-783.125), Max=(X=16595.711 Y=38400.711 Z=-776.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:56D5087D4F87FE9F5694A0A7E11F06FE BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504368506 Label:Sonic_Diamonds_Bp42 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16794.289 Y=38074.289 Z=-593.125), Max=(X=16935.711 Y=38215.711 Z=-586.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=-783.125), Max=(X=17485.711 Y=38685.711 Z=2500.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/game
+----------------------------------------------------------------------------------------------------------------
+game - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 56 
+
+----------------------------------------------------------------------------------------------------------------
+game - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=-783.125), Max=(X=17485.711 Y=38685.711 Z=2500.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 3
+ |- Level  0: Cell Count    1 | Cell Size   25600 | Actor Count   42 (93.3%)
+ |- Level  1: Cell Count    1 | Cell Size   51200 | Actor Count    3 (6.7%)
+ |- Level  2: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y1
+ |   |- Actor Count: 42
+ |   |- MinMaxZ: X=-783.125 Y=-436.875
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E76F7401_1947692209
+ |   |- Actor Package: /Game/__ExternalActors__/game/9/08/N0HOYQRVCRELXO4X3E77CX
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1122345416
+ |   |- Actor Package: /Game/__ExternalActors__/game/2/HL/OAU0KK5OVLQFA227CSZH5K
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1124479417
+ |   |- Actor Package: /Game/__ExternalActors__/game/5/AA/7VZFOQRJYGXGVWSLYQCVX1
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1191761428
+ |   |- Actor Package: /Game/__ExternalActors__/game/2/JD/BYDQ6KYBD8F5J8Z9TNZIR2
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1194797429
+ |   |- Actor Package: /Game/__ExternalActors__/game/8/GE/ZRTZL16JDJ7R18ZU179T0M
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1203303430
+ |   |- Actor Package: /Game/__ExternalActors__/game/5/NC/W810IDZXL9QLB297ON00OE
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1312998443
+ |   |- Actor Package: /Game/__ExternalActors__/game/0/X2/ZPI0H3CSU7MOEVDL8WG3IL
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313000444
+ |   |- Actor Package: /Game/__ExternalActors__/game/8/SZ/BTU46JJWJFQ58WB4TKOGIX
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313001445
+ |   |- Actor Package: /Game/__ExternalActors__/game/1/UP/I7EQSQY7OO6SBD2N4YW1CO
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313003446
+ |   |- Actor Package: /Game/__ExternalActors__/game/1/I2/NFUF3UR3GISY4Q1C16PD97
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313005447
+ |   |- Actor Package: /Game/__ExternalActors__/game/7/W0/PICY1NEADAFHIAI0T00YKN
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1313006448
+ |   |- Actor Package: /Game/__ExternalActors__/game/7/88/THP4AY55QZRYBQVKNVOD0T
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359824457
+ |   |- Actor Package: /Game/__ExternalActors__/game/6/E2/JA797E78L1XBTMQW0M0FHO
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359825458
+ |   |- Actor Package: /Game/__ExternalActors__/game/0/SR/6V896ZYEDHMAWRHCWA21CI
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359826459
+ |   |- Actor Package: /Game/__ExternalActors__/game/9/YR/C6N6BQXF8RYB3ZKKY5OE5B
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359827460
+ |   |- Actor Package: /Game/__ExternalActors__/game/A/OE/84JKENJBL01FBJNCUTNT0Y
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359828461
+ |   |- Actor Package: /Game/__ExternalActors__/game/5/YM/47M3H8NLF8QUKWEHKVDAO4
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1359831462
+ |   |- Actor Package: /Game/__ExternalActors__/game/D/3L/7LPWME9BC5ASZE74WCLRY3
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377810467
+ |   |- Actor Package: /Game/__ExternalActors__/game/B/ZC/8T3OKQNEW4WM30EFVH1OII
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377813468
+ |   |- Actor Package: /Game/__ExternalActors__/game/5/B0/JG35UXSXU4YQRKOZU90E3U
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377814469
+ |   |- Actor Package: /Game/__ExternalActors__/game/2/BJ/766C6690B8C0M3AJHFX9IM
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377816470
+ |   |- Actor Package: /Game/__ExternalActors__/game/C/F4/Z2YURNQZSTC4CVONSHGH57
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377817471
+ |   |- Actor Package: /Game/__ExternalActors__/game/9/3I/UB6OACYOWA311JQ81P37CO
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1377819472
+ |   |- Actor Package: /Game/__ExternalActors__/game/5/OA/UQLJDS1SMTYQG742M3973Q
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402005475
+ |   |- Actor Package: /Game/__ExternalActors__/game/3/U1/XGCGZJDP8IL7OBL1ETMGJJ
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402008476
+ |   |- Actor Package: /Game/__ExternalActors__/game/A/8F/7XJET8FWHTDCVOUNWG13UR
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402009477
+ |   |- Actor Package: /Game/__ExternalActors__/game/9/4G/FPZZ58BYXVTB1JZBD83XLB
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402012478
+ |   |- Actor Package: /Game/__ExternalActors__/game/8/5P/BWH4NHIQ0TCOJB2SN1P3CK
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402014479
+ |   |- Actor Package: /Game/__ExternalActors__/game/1/1U/MDVWKLD6WFNMJ6ITWFZ1O1
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1402015480
+ |   |- Actor Package: /Game/__ExternalActors__/game/A/OD/66ACTXDCIXUCTPZCAFNGJB
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416962483
+ |   |- Actor Package: /Game/__ExternalActors__/game/7/M9/IEGFA6F9LH2JZVJJF9X45K
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416963484
+ |   |- Actor Package: /Game/__ExternalActors__/game/2/YY/6VG8X4LAQXELD9RE9D9IIQ
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416965485
+ |   |- Actor Package: /Game/__ExternalActors__/game/2/DJ/V9ERUTB4PDGP1WOBEFBFGU
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416966486
+ |   |- Actor Package: /Game/__ExternalActors__/game/3/AU/UR2LGABZPVW8QS7IEPZNZM
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416967487
+ |   |- Actor Package: /Game/__ExternalActors__/game/8/25/CCZHK7ZOLZN5F5G1XU65RX
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1416969488
+ |   |- Actor Package: /Game/__ExternalActors__/game/C/8Q/668H8REKI8XEXB9YQFTDYO
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504358501
+ |   |- Actor Package: /Game/__ExternalActors__/game/0/RY/YYU9JTXQ3QBIHQ4VZALKD3
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504361502
+ |   |- Actor Package: /Game/__ExternalActors__/game/A/VZ/JGKHU1F6OCNRI56L08XMEZ
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504363503
+ |   |- Actor Package: /Game/__ExternalActors__/game/4/1U/WRVU1PVHF6A39VPQYOAMPN
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504365504
+ |   |- Actor Package: /Game/__ExternalActors__/game/8/E5/WOU1WG2YCWJBKEPB5385EU
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504366505
+ |   |- Actor Package: /Game/__ExternalActors__/game/3/IK/XBHAU4YAA40J32YP4RJRA2
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1504368506
+ |   |- Actor Package: /Game/__ExternalActors__/game/E/H2/6TKZPTOGPZF6LMOGHSW784
+[+] Content of Grid Level 1
+ |- [+] Content of Cell MainGrid_L1_X0_Y0
+ |   |- Actor Count: 3
+ |   |- MinMaxZ: X=0.000 Y=2500.000
+ |   |- Actor Path: /Game/game.game:PersistentLevel.ControllerPawn_C_UAID_309C23E9A39CE65901_1856491626
+ |   |- Actor Package: /Game/__ExternalActors__/game/2/4I/N9L12AO4QH6S7OBT1AHRWM
+ |   |- Actor Path: /Game/game.game:PersistentLevel.BP_instanceManager_C_UAID_309C23E9A39CE25901_1497335920
+ |   |- Actor Package: /Game/__ExternalActors__/game/7/ZB/9RX8C6HV5ZRK498N3C6DIF
+ |   |- Actor Path: /Game/game.game:PersistentLevel.BP_Maze_C_UAID_309C23E9A39CE25901_1494298919
+ |   |- Actor Package: /Game/__ExternalActors__/game/C/3X/23VII7WS223ZP7E4VNUM1J
+[+] Content of Grid Level 2
+

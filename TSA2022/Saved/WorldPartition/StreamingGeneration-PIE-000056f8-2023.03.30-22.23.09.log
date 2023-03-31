@@ -1,0 +1,124 @@
+[+] Containers:
+ |- [+] Container: /Game/game_2
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:19F8F36B4F72A25F2F8C7B8618B1CA4F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_5CFF35E1E4E7737401_1170654566 Label:SM_SkySphere2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1637975.000 Y=-1638135.000 Z=-1638400.000), Max=(X=1638825.000 Y=1638665.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:1E7B6CFF4A60CF5609C85DB4E08968D3 BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_2106852380 Label:SpinningMenuOrb5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12368.125 Y=36193.125 Z=-551.875), Max=(X=12511.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:368C16274D33ECF892411D835EB7DCFA BaseClass:/Game/orb/Procedural/ControllerPawn.ControllerPawn_C NativeClass:/Script/Engine.Pawn Name:ControllerPawn_C_UAID_309C23E9A39CE65901_1856491626 Label:ControllerPawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14200.000 Y=34250.000 Z=3200.000), Max=(X=14200.000 Y=34250.000 Z=3200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:452FF8504FFA0BE196E0F1B4B9D543DE BaseClass:/Game/orb/Procedural/BP_instanceManager.BP_instanceManager_C NativeClass:/Script/Engine.Actor Name:BP_instanceManager_C_UAID_309C23E9A39CE25901_1497335920 Label:BP_instanceManager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11150.000 Y=34200.000 Z=0.000), Max=(X=14250.000 Y=37300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:49209265454138AA9C718D85B3BB73FF BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_2067798376 Label:SpinningMenuOrb3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13868.125 Y=36193.125 Z=-551.875), Max=(X=14011.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4F0DC39C44F88A77A9FEB3855A3A1F7F BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170659568 Label:SpinningMenuOrb8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16363.125 Y=36193.125 Z=-551.875), Max=(X=16506.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:53CC18D74313F983BDB181B8FEC5345A BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_2128640381 Label:SpinningMenuOrb6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11868.125 Y=36193.125 Z=-551.875), Max=(X=12011.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:56AB8ACC420319DA14433FA9834B2798 BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170662570 Label:SpinningMenuOrb10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14863.125 Y=36193.125 Z=-551.875), Max=(X=15006.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5C0FFE5141FF061B85F5C39104DB537D BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170661569 Label:SpinningMenuOrb9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15363.125 Y=36193.125 Z=-551.875), Max=(X=15506.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6AE309804DA50E978C856DAE6AC85062 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:905EA6DC4557BA72C9C368A261EF152B BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:90D6244B45DCCB88DD72409E97E48F43 BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_1996185370 Label:SpinningMenuOrb2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13368.125 Y=36193.125 Z=-551.875), Max=(X=13511.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:944B63D94BF2A30BB903528D994BB2F6 BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170663571 Label:SpinningMenuOrb11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14363.125 Y=36193.125 Z=-551.875), Max=(X=14506.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9C4B6C9A4E728F600A83E5A8D758C5DD BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:ABE94E384374571F50E90587BC6AE6D5 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:B18C293141C96ADAAE47B083BA7576AD BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170657567 Label:SpinningMenuOrb7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15863.125 Y=36193.125 Z=-551.875), Max=(X=16006.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B9502B074F345390F97B2791A95BA462 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C53FED644F03115A57924DA209FC619F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1640510.000 Y=-1638135.000 Z=-1638400.000), Max=(X=1636290.000 Y=1638665.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:F40C293248A7046E131C24904C3F3B94 BaseClass:/Game/orb/Procedural/BP_Maze.BP_Maze_C NativeClass:/Script/Engine.Actor Name:BP_Maze_C_UAID_309C23E9A39CE25901_1494298919 Label:BP_Maze SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:FE4758574177F9C0F74285BBF6F7856E BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_2082136377 Label:SpinningMenuOrb4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12868.125 Y=36193.125 Z=-551.875), Max=(X=13011.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:90D6244B45DCCB88DD72409E97E48F43 BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_1996185370 Label:SpinningMenuOrb2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13368.125 Y=36193.125 Z=-551.875), Max=(X=13511.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:905EA6DC4557BA72C9C368A261EF152B BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:ABE94E384374571F50E90587BC6AE6D5 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:C53FED644F03115A57924DA209FC619F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1640510.000 Y=-1638135.000 Z=-1638400.000), Max=(X=1636290.000 Y=1638665.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:B9502B074F345390F97B2791A95BA462 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:9C4B6C9A4E728F600A83E5A8D758C5DD BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:6AE309804DA50E978C856DAE6AC85062 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:368C16274D33ECF892411D835EB7DCFA BaseClass:/Game/orb/Procedural/ControllerPawn.ControllerPawn_C NativeClass:/Script/Engine.Pawn Name:ControllerPawn_C_UAID_309C23E9A39CE65901_1856491626 Label:ControllerPawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14200.000 Y=34250.000 Z=3200.000), Max=(X=14200.000 Y=34250.000 Z=3200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |   |- Guid:452FF8504FFA0BE196E0F1B4B9D543DE BaseClass:/Game/orb/Procedural/BP_instanceManager.BP_instanceManager_C NativeClass:/Script/Engine.Actor Name:BP_instanceManager_C_UAID_309C23E9A39CE25901_1497335920 Label:BP_instanceManager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11150.000 Y=34200.000 Z=0.000), Max=(X=14250.000 Y=37300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |   |- Guid:F40C293248A7046E131C24904C3F3B94 BaseClass:/Game/orb/Procedural/BP_Maze.BP_Maze_C NativeClass:/Script/Engine.Actor Name:BP_Maze_C_UAID_309C23E9A39CE25901_1494298919 Label:BP_Maze SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:49209265454138AA9C718D85B3BB73FF BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_2067798376 Label:SpinningMenuOrb3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13868.125 Y=36193.125 Z=-551.875), Max=(X=14011.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:FE4758574177F9C0F74285BBF6F7856E BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_2082136377 Label:SpinningMenuOrb4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12868.125 Y=36193.125 Z=-551.875), Max=(X=13011.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:1E7B6CFF4A60CF5609C85DB4E08968D3 BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_2106852380 Label:SpinningMenuOrb5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12368.125 Y=36193.125 Z=-551.875), Max=(X=12511.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:53CC18D74313F983BDB181B8FEC5345A BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_2128640381 Label:SpinningMenuOrb6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11868.125 Y=36193.125 Z=-551.875), Max=(X=12011.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:19F8F36B4F72A25F2F8C7B8618B1CA4F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_5CFF35E1E4E7737401_1170654566 Label:SM_SkySphere2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1637975.000 Y=-1638135.000 Z=-1638400.000), Max=(X=1638825.000 Y=1638665.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:B18C293141C96ADAAE47B083BA7576AD BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170657567 Label:SpinningMenuOrb7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15863.125 Y=36193.125 Z=-551.875), Max=(X=16006.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:4F0DC39C44F88A77A9FEB3855A3A1F7F BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170659568 Label:SpinningMenuOrb8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16363.125 Y=36193.125 Z=-551.875), Max=(X=16506.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:5C0FFE5141FF061B85F5C39104DB537D BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170661569 Label:SpinningMenuOrb9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15363.125 Y=36193.125 Z=-551.875), Max=(X=15506.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:56AB8ACC420319DA14433FA9834B2798 BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170662570 Label:SpinningMenuOrb10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14863.125 Y=36193.125 Z=-551.875), Max=(X=15006.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:944B63D94BF2A30BB903528D994BB2F6 BaseClass:/Game/SpinningMenuOrb.SpinningMenuOrb_C NativeClass:/Script/Engine.Actor Name:SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170663571 Label:SpinningMenuOrb11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14363.125 Y=36193.125 Z=-551.875), Max=(X=14506.875 Y=36336.875 Z=-408.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=-551.875), Max=(X=16506.875 Y=37300.000 Z=3200.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/game_2
+----------------------------------------------------------------------------------------------------------------
+game_2 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 28 
+
+----------------------------------------------------------------------------------------------------------------
+game_2 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=-551.875), Max=(X=16506.875 Y=37300.000 Z=3200.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 3
+ |- Level  0: Cell Count    1 | Cell Size   25600 | Actor Count   10 (76.9%)
+ |- Level  1: Cell Count    1 | Cell Size   51200 | Actor Count    3 (23.1%)
+ |- Level  2: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y1
+ |   |- Actor Count: 10
+ |   |- MinMaxZ: X=-551.875 Y=-408.125
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_1996185370
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/4/B6/OFTRAX96L1TDJC6MK0E8UF
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_2067798376
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/2/EK/17YANIH3Y12AN838GKP8GS
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_2082136377
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/0/8V/8NX4TVA2ZW9D0J0N2QXGLO
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_2106852380
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/9/2Y/SX48FTJ7J8QOVEL9SIYEJ7
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.SpinningMenuOrb_C_UAID_5CFF35E1E4E7727401_2128640381
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/9/WB/IXY7TQZN7LFBV9X5M3LCIW
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170657567
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/6/NE/7C6CL7QQRHVL4OSHUKB7KY
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170659568
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/8/6B/JNSVPD112EW2BA70DDPSDV
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170661569
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/B/5I/K7PPK7JXF9JWHREC6F7AAC
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170662570
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/3/SD/XKIRR1II6HL7V2Y46NUL7W
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.SpinningMenuOrb_C_UAID_5CFF35E1E4E7737401_1170663571
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/8/OV/QOJTBSRZ2QT9TDXXYP6D33
+[+] Content of Grid Level 1
+ |- [+] Content of Cell MainGrid_L1_X0_Y0
+ |   |- Actor Count: 3
+ |   |- MinMaxZ: X=0.000 Y=3200.000
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.ControllerPawn_C_UAID_309C23E9A39CE65901_1856491626
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/E/9D/9PB8MZDGAWSPIQ217XQ3Z8
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.BP_instanceManager_C_UAID_309C23E9A39CE25901_1497335920
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/0/1H/9H3KHKJ0UZP622YX72Q00X
+ |   |- Actor Path: /Game/game_2.game_2:PersistentLevel.BP_Maze_C_UAID_309C23E9A39CE25901_1494298919
+ |   |- Actor Package: /Game/__ExternalActors__/game_2/2/XA/DYXV1ZDM4PAUCJV1YUKM2G
+[+] Content of Grid Level 2
+

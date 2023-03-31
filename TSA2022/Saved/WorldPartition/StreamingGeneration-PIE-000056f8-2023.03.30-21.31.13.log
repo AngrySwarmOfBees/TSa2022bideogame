@@ -1,0 +1,98 @@
+[+] Containers:
+ |- [+] Container: /Game/game
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0432B3BB48B2FB74E3C684A9B3B3B3B0 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1191761428 Label:Sonic_Diamonds_Bp4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15844.289 Y=36854.289 Z=-518.125), Max=(X=15985.711 Y=36995.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:0E79EF284E843770C18A40AB0520E098 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1124479417 Label:Sonic_Diamonds_Bp3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16334.289 Y=37434.289 Z=-518.125), Max=(X=16475.711 Y=37575.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:19A4731B48A7BE46CE484A87E628C22D BaseClass:/Game/orb/Procedural/BP_instanceManager.BP_instanceManager_C NativeClass:/Script/Engine.Actor Name:BP_instanceManager_C_UAID_309C23E9A39CE25901_1497335920 Label:BP_instanceManager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14200.000 Y=34250.000 Z=0.000), Max=(X=14200.000 Y=34250.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:1E0C3A954838CB9EA19757A116A5E56B BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1122345416 Label:Sonic_Diamonds_Bp2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16074.289 Y=37219.289 Z=-558.125), Max=(X=16215.711 Y=37360.711 Z=-551.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:3FFC063041ED1108E4140D9E4984B532 BaseClass:/Game/orb/Procedural/ControllerPawn.ControllerPawn_C NativeClass:/Script/Engine.Pawn Name:ControllerPawn_C_UAID_309C23E9A39CE65901_1856491626 Label:ControllerPawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15175.000 Y=35150.000 Z=2500.000), Max=(X=15175.000 Y=35150.000 Z=2500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4DE4B7CD46D058933CAC0FBA8AD76B70 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E76F7401_1947692209 Label:Sonic_Diamonds_Bp SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15764.289 Y=37519.289 Z=-598.125), Max=(X=15905.711 Y=37660.711 Z=-591.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:87431C644A0DED2E389A4EAAF436E692 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1194797429 Label:Sonic_Diamonds_Bp5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15509.289 Y=37139.289 Z=-633.125), Max=(X=15650.711 Y=37280.711 Z=-626.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A5771A844215A0E6A08562867772C249 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1203303430 Label:Sonic_Diamonds_Bp6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15169.289 Y=37324.289 Z=-443.125), Max=(X=15310.711 Y=37465.711 Z=-436.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:E6C4256B4C809C38067A65A8B56F1582 BaseClass:/Game/orb/Procedural/BP_Maze.BP_Maze_C NativeClass:/Script/Engine.Actor Name:BP_Maze_C_UAID_309C23E9A39CE25901_1494298919 Label:BP_Maze SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:3FFC063041ED1108E4140D9E4984B532 BaseClass:/Game/orb/Procedural/ControllerPawn.ControllerPawn_C NativeClass:/Script/Engine.Pawn Name:ControllerPawn_C_UAID_309C23E9A39CE65901_1856491626 Label:ControllerPawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15175.000 Y=35150.000 Z=2500.000), Max=(X=15175.000 Y=35150.000 Z=2500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |   |- Guid:19A4731B48A7BE46CE484A87E628C22D BaseClass:/Game/orb/Procedural/BP_instanceManager.BP_instanceManager_C NativeClass:/Script/Engine.Actor Name:BP_instanceManager_C_UAID_309C23E9A39CE25901_1497335920 Label:BP_instanceManager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14200.000 Y=34250.000 Z=0.000), Max=(X=14200.000 Y=34250.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |   |- Guid:E6C4256B4C809C38067A65A8B56F1582 BaseClass:/Game/orb/Procedural/BP_Maze.BP_Maze_C NativeClass:/Script/Engine.Actor Name:BP_Maze_C_UAID_309C23E9A39CE25901_1494298919 Label:BP_Maze SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:4DE4B7CD46D058933CAC0FBA8AD76B70 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E76F7401_1947692209 Label:Sonic_Diamonds_Bp SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15764.289 Y=37519.289 Z=-598.125), Max=(X=15905.711 Y=37660.711 Z=-591.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:1E0C3A954838CB9EA19757A116A5E56B BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1122345416 Label:Sonic_Diamonds_Bp2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16074.289 Y=37219.289 Z=-558.125), Max=(X=16215.711 Y=37360.711 Z=-551.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:0E79EF284E843770C18A40AB0520E098 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1124479417 Label:Sonic_Diamonds_Bp3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16334.289 Y=37434.289 Z=-518.125), Max=(X=16475.711 Y=37575.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:0432B3BB48B2FB74E3C684A9B3B3B3B0 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1191761428 Label:Sonic_Diamonds_Bp4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15844.289 Y=36854.289 Z=-518.125), Max=(X=15985.711 Y=36995.711 Z=-511.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:87431C644A0DED2E389A4EAAF436E692 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1194797429 Label:Sonic_Diamonds_Bp5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15509.289 Y=37139.289 Z=-633.125), Max=(X=15650.711 Y=37280.711 Z=-626.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:A5771A844215A0E6A08562867772C249 BaseClass:/Game/Sonic_Diamonds_Bp.Sonic_Diamonds_Bp_C NativeClass:/Script/Engine.Actor Name:Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1203303430 Label:Sonic_Diamonds_Bp6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15169.289 Y=37324.289 Z=-443.125), Max=(X=15310.711 Y=37465.711 Z=-436.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=-633.125), Max=(X=16475.711 Y=37660.711 Z=2500.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/game
+----------------------------------------------------------------------------------------------------------------
+game - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 20 
+
+----------------------------------------------------------------------------------------------------------------
+game - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=-633.125), Max=(X=16475.711 Y=37660.711 Z=2500.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 3
+ |- Level  0: Cell Count    1 | Cell Size   25600 | Actor Count    6 (66.7%)
+ |- Level  1: Cell Count    1 | Cell Size   51200 | Actor Count    3 (33.3%)
+ |- Level  2: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y1
+ |   |- Actor Count: 6
+ |   |- MinMaxZ: X=-633.125 Y=-436.875
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E76F7401_1947692209
+ |   |- Actor Package: /Game/__ExternalActors__/game/9/08/N0HOYQRVCRELXO4X3E77CX
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1122345416
+ |   |- Actor Package: /Game/__ExternalActors__/game/2/HL/OAU0KK5OVLQFA227CSZH5K
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1124479417
+ |   |- Actor Package: /Game/__ExternalActors__/game/5/AA/7VZFOQRJYGXGVWSLYQCVX1
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1191761428
+ |   |- Actor Package: /Game/__ExternalActors__/game/2/JD/BYDQ6KYBD8F5J8Z9TNZIR2
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1194797429
+ |   |- Actor Package: /Game/__ExternalActors__/game/8/GE/ZRTZL16JDJ7R18ZU179T0M
+ |   |- Actor Path: /Game/game.game:PersistentLevel.Sonic_Diamonds_Bp_C_UAID_5CFF35E1E4E7707401_1203303430
+ |   |- Actor Package: /Game/__ExternalActors__/game/5/NC/W810IDZXL9QLB297ON00OE
+[+] Content of Grid Level 1
+ |- [+] Content of Cell MainGrid_L1_X0_Y0
+ |   |- Actor Count: 3
+ |   |- MinMaxZ: X=0.000 Y=2500.000
+ |   |- Actor Path: /Game/game.game:PersistentLevel.ControllerPawn_C_UAID_309C23E9A39CE65901_1856491626
+ |   |- Actor Package: /Game/__ExternalActors__/game/2/4I/N9L12AO4QH6S7OBT1AHRWM
+ |   |- Actor Path: /Game/game.game:PersistentLevel.BP_instanceManager_C_UAID_309C23E9A39CE25901_1497335920
+ |   |- Actor Package: /Game/__ExternalActors__/game/7/ZB/9RX8C6HV5ZRK498N3C6DIF
+ |   |- Actor Path: /Game/game.game:PersistentLevel.BP_Maze_C_UAID_309C23E9A39CE25901_1494298919
+ |   |- Actor Package: /Game/__ExternalActors__/game/C/3X/23VII7WS223ZP7E4VNUM1J
+[+] Content of Grid Level 2
+
